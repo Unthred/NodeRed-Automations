@@ -1,0 +1,1 @@
+[{"id":"f860056d.6f10f8","type":"api-call-service","z":"2cd6fd42.e36db2","name":"Notify Squiggley","server":"5ed55cb1.3cf4b4","service_domain":"notify","service":"squiggley","data":"{ \"message\":\"Nightly shutdown\"}","x":701,"y":140,"wires":[]},{"id":"5ed55cb1.3cf4b4","type":"server","z":"","name":"Home Assistant","url":"http://192.168.13.1:8123","pass":"HomeControl42!"}]

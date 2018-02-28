@@ -1,0 +1,1 @@
+[{"id":"532d957f.c929cc","type":"server-state-changed","z":"1b4a4b6e.ef22b5","name":"Front Door","server":"bf915e1d.6cb8e","entityidfilter":"sensor.front_door_sensor","haltifstate":"","x":80,"y":100,"wires":[["434dbcff.447ca4","a4487298.93683"]]},{"id":"bf915e1d.6cb8e","type":"server","z":"","name":"Home Assistant","url":"http://192.168.13.1:8123","pass":"HomeControl42!"}]

@@ -1,0 +1,1 @@
+[{"id":"ba1437e4.4c2c68","type":"switch","z":"e07c95c3.4c6e18","name":"","property":"payload","propertyType":"msg","rules":[{"t":"eq","v":"online","vt":"str"},{"t":"eq","v":"offline","vt":"str"}],"checkall":"true","outputs":2,"x":551,"y":184,"wires":[["85673f07.d72ef","66012321.d32ccc","f650b4e5.af5768"],["b9e4e818.835a08","fb56f042.9a546","a3bab5d8.0b61e8"]]}]

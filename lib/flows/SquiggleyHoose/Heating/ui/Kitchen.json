@@ -1,0 +1,1 @@
+[{"id":"e79a181b.6da2a8","type":"api-call-service","z":"f008066a.751518","name":"Set Temp","server":"5ed55cb1.3cf4b4","service_domain":"climate","service":"set_temperature","data":"{ \"entity_id\":\"climate.kitchen\"}","x":920,"y":160,"wires":[]},{"id":"5ed55cb1.3cf4b4","type":"server","z":"","name":"Home Assistant","url":"http://192.168.13.1:8123","pass":"HomeControl42!"}]

@@ -1,0 +1,37 @@
+{
+  "name": "node-red-project",
+  "description": "A Node-RED Project",
+  "version": "0.0.1",
+  "dependencies": {
+    "node-red-auth-github": "~0.1.0",
+    "node-red-contrib-actionflows": "~1.2.0",
+    "node-red-contrib-async": "0.0.4",
+    "node-red-contrib-batcher": "~0.3.1",
+    "node-red-contrib-bigtimer": "~1.8.0",
+    "node-red-contrib-bool-gate": "~1.0.2",
+    "node-red-contrib-boolean-logic": "0.0.3",
+    "node-red-contrib-color-convert": "0.0.1",
+    "node-red-contrib-config": "~1.1.2",
+    "node-red-contrib-deduplicate": "~0.2.0",
+    "node-red-contrib-delta-timed": "~0.3.0",
+    "node-red-contrib-geofence": "~0.2.4",
+    "node-red-contrib-heatmiser": "0.0.5",
+    "node-red-contrib-home-assistant": "~0.2.0",
+    "node-red-contrib-home-assistant-ws": "0.0.1",
+    "node-red-contrib-irtemplate": "~0.4.1",
+    "node-red-contrib-kodi": "~0.2.7",
+    "node-red-contrib-lgtv": "~1.0.2",
+    "node-red-contrib-light-scheduler": "0.0.11",
+    "node-red-contrib-netatmo-dashboard": "~0.2.3",
+    "node-red-contrib-netatmo-thermostat": "~0.1.4",
+    "node-red-contrib-persist": "~1.0.3",
+    "node-red-contrib-primitives": "~0.2.0",
+    "node-red-contrib-remote-xy": "~1.1.1",
+    "node-red-dashboard": "~2.7.0",
+    "node-red-nodes-cf-sqldb-dashdb": "~0.2.27",
+    "thethingbox-node-timestamp": "~2.0.0"
+  },
+  "devDependencies": {
+    "font-awesome": "^4.7.0"
+  }
+}
